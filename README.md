@@ -1,1 +1,1 @@
-Addition of README file to repository
+WPF Application created using Visual Studio
